@@ -1,0 +1,4 @@
+interface:
+  display_name: "线圈笔记本技术配图"
+  short_description: "复用米白线圈笔记本版式，更换主题、Logo 与配色，生成技术笔记封面和正文配图"
+  default_prompt: "用 $notebook-tech-cards 为这个主题制作配图，沿用线圈笔记本风格，并替换对应的 Logo 和内容。"

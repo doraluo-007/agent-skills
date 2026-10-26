@@ -1,0 +1,17 @@
+# 可选的跨轮记录，通常由自然语言请求填入。
+topic: "Python 异步"
+series_label: "Python 学习笔记"
+issue: "02"
+audience: "熟悉 JavaScript 的开发者"
+reader_question: "怎样理解 Python 的 async 和 await？"
+logo_path: null # 有精确素材时填路径；否则默认文字徽标
+logo_text: "Python"
+mascot: "小型蛇形手绘概念插画，不宣称为官方吉祥物"
+accent_color: "#3776AB"
+title_lines:
+  - "会 async / await"
+  - "再看 Python 异步"
+subtitle: "把熟悉的写法，放回各自的执行机制"
+source: null # 原始文档、代码路径或对话材料
+output_scope: "cover" # cover / interior / carousel
+cards: [] # 各项记录 heading、layout、exact_text、code、takeaway、caveat
